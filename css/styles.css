@@ -1,0 +1,31 @@
+#moji {
+	color: red;
+}
+.btn {
+	float: right;
+}
+#output {
+	display: none;
+}
+ol {
+	list-style: none;
+}
+.panel-heading {
+	background-color: red;
+}
+.jumbotron {
+	text-decoration: underline;
+	text-align: center;
+	font-family: ariel;
+	font-size: 20vh;
+	background-color: rgba(66, 244, 203, 0.9);
+}
+#header, #footer {
+	background-color: rgba(66, 244, 203, 0.9);
+}
+body, #body {
+	background-color: rgb(108, 150, 140);
+}
+#spin {
+	align-items: center;
+}
